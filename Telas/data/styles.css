@@ -2,7 +2,7 @@
   font-family:'Open Sans';
   font-weight:normal;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   color:#333333;
   text-align:center;
   line-height:normal;
@@ -11,14 +11,14 @@
   font-family:'Open Sans';
   font-weight:normal;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   color:#333333;
   text-align:left;
   line-height:normal;
 }
 .ax_h1 {
-  font-family:'Open Sans Extrabold', 'Open Sans';
-  font-weight:800;
+  font-family:'Open Sans';
+  font-weight:normal;
   font-style:normal;
   font-size:32px;
   color:#333333;
@@ -26,8 +26,8 @@
   line-height:normal;
 }
 .ax_h2 {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
+  font-family:'Open Sans';
+  font-weight:normal;
   font-style:normal;
   font-size:24px;
   color:#333333;
@@ -35,8 +35,8 @@
   line-height:normal;
 }
 .ax_h3 {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
+  font-family:'Open Sans';
+  font-weight:normal;
   font-style:normal;
   font-size:18px;
   color:#333333;
@@ -44,8 +44,8 @@
   line-height:normal;
 }
 .ax_h4 {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
+  font-family:'Open Sans';
+  font-weight:normal;
   font-style:normal;
   font-size:14px;
   color:#333333;
@@ -53,8 +53,8 @@
   line-height:normal;
 }
 .ax_h5 {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
+  font-family:'Open Sans';
+  font-weight:normal;
   font-style:normal;
   font-size:13px;
   color:#333333;
@@ -62,8 +62,8 @@
   line-height:normal;
 }
 .ax_h6 {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
+  font-family:'Open Sans';
+  font-weight:normal;
   font-style:normal;
   font-size:10px;
   color:#333333;
@@ -83,7 +83,6 @@
   font-family:'Open Sans';
   font-weight:normal;
   font-style:normal;
-  color:#0000FF;
 }
 .ax_text_link_mouse_over {
   font-family:'Open Sans';
@@ -201,7 +200,7 @@
   line-height:normal;
 }
 .ax_repeater {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -210,7 +209,7 @@
   line-height:normal;
 }
 .ax_table {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -219,7 +218,7 @@
   line-height:normal;
 }
 .ax_table_cell {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -246,7 +245,7 @@
   line-height:normal;
 }
 .ax_connector {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -254,72 +253,16 @@
   text-align:center;
   line-height:normal;
 }
-.padrao_-_ {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-}
-._menuprincipal {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  font-size:13px;
-  color:#FFFFFF;
-}
-._menuprincipal-submenus-external {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  line-height:13px;
-}
-._panel__panel-default__content_ {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  font-size:14px;
-  color:#333333;
-  line-height:20px;
-}
-._panel__panel-default__header_ {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  font-size:14px;
-  color:#333333;
-  line-height:20px;
-}
-.label {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  line-height:20px;
-}
-.form_text_field {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  font-size:14px;
-  line-height:20px;
+.open_sans {
 }
 ._btn-link {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:14px;
   color:#428BCA;
-  text-align:center;
-  line-height:20px;
 }
 ._btn-link_hover {
   color:#2A6496;
-  text-align:center;
-  line-height:20px;
 }
 ._btn-primary {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:14px;
   color:#FFFFFF;
   text-align:center;
@@ -330,12 +273,7 @@
   text-align:center;
   line-height:20px;
 }
-.fontawesome {
-}
 ._btn-success {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:14px;
   color:#FFFFFF;
   text-align:center;
@@ -346,37 +284,15 @@
   text-align:center;
   line-height:20px;
 }
-._breadcrumb_background {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  font-size:14px;
-  color:#999999;
-  line-height:20px;
-}
-._well {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
+.label {
   font-size:14px;
   line-height:20px;
 }
-._progressbar_base {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  line-height:20px;
-}
-._progressbar_danger {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
+.form_text_field {
+  font-size:14px;
   line-height:20px;
 }
 ._btn-default {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:14px;
   color:#333333;
   text-align:center;
@@ -387,97 +303,119 @@
   text-align:center;
   line-height:20px;
 }
-.tooltip {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  color:#FFFFFF;
-}
-.tooltip_arrow {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-}
-.popover__panel_content {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-  font-size:14px;
-  color:#333333;
-  line-height:20px;
-}
-._modal-dialogue_header {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
-  font-style:normal;
-  font-size:18px;
-  line-height:25px;
-}
-._modal-dialogue_content {
-  font-family:'Open Sans Bold', 'Open Sans';
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  line-height:20px;
-}
-._modal-backdrop {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
-}
-._menuprincipal_hover {
-  font-size:13px;
-  color:#FFFFFF;
-}
 .dropdown-menu {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:14px;
   line-height:26px;
 }
 ._navbar-inverse__background_ {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:18px;
   color:#999999;
   line-height:20px;
 }
 ._navbar-inverse_link {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:14px;
   color:#999999;
   line-height:20px;
 }
 ._navbar-inverse_link_hover {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   color:#FFFFFF;
 }
 ._btn-grp_divider {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
 }
 ._dropdown_menuitem {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
 }
 ._dropdown_menuitem_hover {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   color:#252525;
 }
-._btn-danger {
-  font-family:'Open Sans';
-  font-weight:normal;
+._panel__panel-default__header_ {
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+.popover__panel_content {
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+._dropdown-menu__dropdown-header {
+  font-size:12px;
+  color:#999999;
+  line-height:17px;
+}
+._panel__panel-default__content_ {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+.fontawesome {
+}
+.tooltip {
+  color:#FFFFFF;
+}
+.tooltip_arrow {
+}
+._btn-grp__btn-default__ends_ {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+}
+._btn-grp__btn-default__center_ {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+}
+._btn-grp__btn-default_hover {
+}
+._nav-tab_focused_tab {
+  color:#555555;
+  line-height:20px;
+}
+._nav-tab_background_tabs {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#428BCA;
+  text-align:center;
+  line-height:20px;
+}
+._nav-tab_tab_hover {
+  color:#2A6496;
+}
+._navbar-default_link_hover {
+  color:#2A6496;
+}
+._text-muted {
+  color:#999999;
+}
+._text-primary {
+  color:#428BCA;
+}
+._text-success {
+  color:#3C763D;
+}
+._text-info {
+  color:#31708F;
+}
+._text-warning {
+  color:#8A6D3B;
+}
+._text-danger {
+  color:#A94442;
+}
+.lead {
+  font-size:21px;
+  color:#333333;
+  line-height:29px;
+}
+._btn-danger {
   font-size:14px;
   color:#FFFFFF;
   text-align:center;
@@ -489,18 +427,12 @@
   line-height:20px;
 }
 ._btn-info {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   font-size:14px;
   color:#FFFFFF;
   text-align:center;
   line-height:20px;
 }
 ._btn-info_hover {
-  font-family:'Open Sans';
-  font-weight:normal;
-  font-style:normal;
   color:#FFFFFF;
   text-align:center;
   line-height:20px;
