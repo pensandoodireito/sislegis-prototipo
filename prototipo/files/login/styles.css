@@ -41,7 +41,7 @@
   top:140px;
   width:380px;
   height:28px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negrito', 'Arial';
   font-weight:700;
   font-style:normal;
   text-align:center;
@@ -138,7 +138,7 @@
   width:280px;
   height:40px;
   background-color:transparent;
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -154,7 +154,7 @@
   top:202px;
   width:300px;
   height:25px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negrito', 'Arial';
   font-weight:700;
   font-style:normal;
 }
@@ -216,7 +216,7 @@
   width:280px;
   height:40px;
   background-color:transparent;
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -232,7 +232,7 @@
   top:290px;
   width:300px;
   height:25px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negrito', 'Arial';
   font-weight:700;
   font-style:normal;
 }
