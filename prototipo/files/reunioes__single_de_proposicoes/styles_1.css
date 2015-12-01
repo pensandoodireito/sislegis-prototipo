@@ -1587,7 +1587,7 @@
   top:27px;
   width:11px;
   height:16px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -1659,7 +1659,7 @@
   top:25px;
   width:12px;
   height:18px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:15px;
@@ -2147,7 +2147,7 @@
   top:27px;
   width:11px;
   height:16px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -2219,7 +2219,7 @@
   top:25px;
   width:12px;
   height:18px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:15px;
@@ -2526,7 +2526,7 @@
   top:0px;
   width:61px;
   height:55px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:15px;
@@ -2776,7 +2776,7 @@
   top:62px;
   width:11px;
   height:11px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:11px;
@@ -2895,7 +2895,7 @@
   top:66px;
   width:19px;
   height:20px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
